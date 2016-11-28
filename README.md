@@ -6,7 +6,11 @@
 0.1.0
 
 ##Useage##
- 
+    $('span').linkIt({
+		href: 'http://test.com',
+		text: 'Click Me',
+		target: '_blank'
+	});
 
 ##Vendors##
 jQuery - [http://jquery.com](http://jquery.com)
